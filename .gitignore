@@ -1,0 +1,12 @@
+# Secrets
+.env
+config/airflow.cfg
+
+# Données et logs locaux
+logs/
+data/
+minio-data/
+
+# Python
+__pycache__/
+*.pyc
